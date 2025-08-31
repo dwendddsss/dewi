@@ -108,3 +108,39 @@ section {
 #portfolio .gallery img:hover {
   transform: scale(1.05);
 }
+
+#contact {
+  padding: 50px 20px;
+}
+
+#contact button {
+  margin: 10px;
+  padding: 12px 25px;
+  font-size: 16px;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: transform 0.2s ease, background 0.3s ease;
+  color: white;
+}
+
+#waBtn {
+  background: #25D366;
+}
+
+#emailBtn {
+  background: #0072C6;
+}
+
+#contact button:hover {
+  transform: scale(1.05);
+  opacity: 0.9;
+}
+
+footer {
+  background: #ffb6c1;
+  text-align: center;
+  padding: 15px;
+  color: white;
+  margin-top: 20px;
+}
