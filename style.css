@@ -10,3 +10,15 @@ body {
   background: #fff0f6;
   color: #333;
 }
+
+nav {
+  background: #ffb6c1
+  color: white;
+  padding: 15px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky
+  top : 0;
+  z-index:
+}
